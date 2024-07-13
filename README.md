@@ -1,4 +1,5 @@
 Java 17 Masterclass: Start Coding in 2024
+
 3rd exercise
 
 Write a method called printMegaBytesAndKiloBytes that has 1 parameter of type int with the name kiloBytes.
